@@ -1,5 +1,3 @@
-# Crear el contenido del README.md basado en los análisis previos
-readme_content = """
 # 🧠 Predictive Marketing Analysis - iFood Dataset
 
 Este proyecto utiliza modelos de machine learning para analizar y predecir el comportamiento de clientes, con foco en su respuesta a campañas y su nivel de ingreso, basado en el dataset `marketing_campaign.csv`.
